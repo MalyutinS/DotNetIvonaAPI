@@ -1,7 +1,7 @@
 DotNetIvonaAPI
 ==============
 
-Ivona Text-to-Speech API implementation example
+Ivona Text-to-Speech API implementation example using C# language and the .NET Framework
 
 This implementation based on the  <a href="http://developer.ivona.com/en/speechcloud/api_ref_actions.html#CreateSpeech">documentation from Ivona</a> 
 
